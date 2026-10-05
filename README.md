@@ -57,9 +57,9 @@ This repository tracks notable **SaaS commercial platforms**, **open-source vide
 
 The open-source video player and media server ecosystem is mature, production-proven, and actively maintained. From full-featured media servers to ultra-fast native video players and web streaming libraries, these projects give you total control over video playback and hosting.
 
-*Sorted by GitHub Star Count (Descending):*
+*Sorted by GitHub Stars_Count (Descending):*
 
-| Repo | Description | Stars |
+| Repo | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[Immich](https://github.com/immich-app/immich)** | **High-performance self-hosted photo & video backup solution.** Features seamless video streaming, transcribing, and mobile sync. **AGPL-3.0**. | [![Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers) |
 | **[Jellyfin](https://github.com/jellyfin/jellyfin)** | **The leading free, open-source media server.** Zero premium paywalls, zero tracking, total library control. Supports hardware transcoding & cross-platform apps. **GPL-2.0**. | [![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers) |
@@ -86,7 +86,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 **Fork** this repository.
 2. 📝 Edit `README.md` to add your suggested commercial storefront or open-source video project.
-3. 🎯 Ensure entries include clear descriptions, proper links, and star badges for open-source projects.
+3. 🎯 Ensure entries include clear descriptions, proper links, and Stars_Badges for open-source projects.
 4. 📬 Submit a **Pull Request** detailing your changes.
 
 ---
